@@ -2,3 +2,4 @@
 第二次修改，ubuntu中的修改
 第三次修改，windows中的修改
 第四次修改，windowswindows
+修复一个bug
